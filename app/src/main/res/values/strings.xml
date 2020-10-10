@@ -2,4 +2,8 @@
     <string name="app_name">About Me</string>
     <string name="name">Jose Maria</string>
     <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi my name is jose maria etc etc...</string>
+    <string name="what_is_your_nickname">what is your NickNeme</string>
+    <string name="done">Done</string>
 </resources>
